@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Khaing Su Lwin" class="profile-photo">
+  <h1>Khaing Su Lwin</h1>
+  <p><strong>Independent Research Consultant</strong></p>
+  <p><em>Water security | Climate Resilience | Nature-based Solutions | Southeast Asia</em></p>
 </div>
 
 ---
@@ -32,15 +32,12 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I'm a researcher and engineer by training working at the intersection of water security, climate resilience, nature-based solutions, and environmental governance in Southeast Asia and the Mekong region.
+Most recently at Stockholm Environment Institute (SEI Asia) in Bangkok — first as a Fellow for Research to Policy and subsequently as a Research Consultant: my work focused on synthesising evidence and generating recommendations through systematic evidence mapping, qualitative research, and stakeholder engagement with researchers, governments, regional bodies, and development partners.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+My recent work includes a first-authored, peer-reviewed publication in the Nature-Based Solutions journal. I bring qualitative research methods (NVivo, systematic mapping, key informant interviews), native Burmese language fluency, and a growing foundation in GIS and spatial analysis. I'm currently seeking researcher, analyst, and programme officer roles with regional organisations, INGOs, and think tanks working on water, climate resilience, or environmental governance in Asia.
+
+I also use this space to think publicly and document my observations on topics that interest me beyond my research — ecology, urban life, and inclusivity - among others.
 
 </div>
 
@@ -53,7 +50,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/khaing-su-lwin-CV.pdf){ .md-button }
 
 
 ---
@@ -62,55 +59,58 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-magnify:{ .lg .middle } **Research & Analysis**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Systematic evidence mapping and literature review
+    - Qualitative coding and analysis — NVivo
+    - Key informant interviews and focus group design
+    - Data collection, synthesis, and reporting
 
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-file-document:{ .lg .middle } **Research Communication**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Peer-reviewed academic writing
+    - Policy reports and synthesis reports
+    - Blog writing and science communication
+    - Podcast production and event facilitation
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-account-group:{ .lg .middle } **Stakeholder Engagement**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Multi-stakeholder workshop design and facilitation
+    - Community consultation
+    - Regional network coordination
+    - Youth engagement and capacity building
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-map:{ .lg .middle } **GIS & Spatial Analysis**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    ---
+
+    - QGIS (operational)
+    - Python GIS programming (introductory — in progress)
+    - Spatial analysis — MIT OpenCourseWare, Spatial Thoughts (ongoing)
+    - Data visualisation — Datawrapper, Flourish
+
+-   :material-code-braces:{ .lg .middle } **Technical Tools**
+
+    ---
+
+    - Excel
+    - Python (familiar — in progress)
+    - Academic training — SWAT, HEC-RAS, ENVI
+    - Reference management software
+
+-   :material-translate:{ .lg .middle } **Languages**
+
+    ---
+
+    - Burmese (native)
+    - English (fluent)
+    - French (A2–B1)
 </div>
 
 
@@ -118,5 +118,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/khaingsulwin){ .md-button }
+[LinkedIn](https://linkedin.com/in/khaing-su-lwin){ .md-button }
