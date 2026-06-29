@@ -118,5 +118,4 @@ I also use this space to think publicly and document my observations on topics t
 
 ## Connect
 
-[GitHub](https://github.com/khaingsulwin){ .md-button }
 [LinkedIn](https://linkedin.com/in/khaing-su-lwin){ .md-button }

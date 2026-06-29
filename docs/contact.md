@@ -15,14 +15,13 @@ CHECKLIST FOR THIS PAGE:
 
 # Contact
 
-I am open to work opportunities, collaborations, and project discussions.
-Feel free to reach out through any of the channels below.
+If my work resonates with you, or if you're working on something at the intersection of water, climate, nature-based solutions and research-policy interfaces, I'd love to hear from you. I'm currently open to research, analyst, and programme roles — but equally happy to just have a good conversation. The best way to reach me is by email.
 
 ---
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:khaingsulwin.lu@gmail.com) |
+| :material-email: **Email** | [khaingsulwin.lu@gmail.com](mailto:khaingsulwin.lu@gmail.com) |
 | :fontawesome-brands-github: **GitHub** | [github.com/khaingsulwin](https://github.com/khaingsulwin) |
 | :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/khaing-su-lwin](https://linkedin.com/in/khaing-su-lwin) |
 

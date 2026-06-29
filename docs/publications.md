@@ -15,32 +15,44 @@ CHECKLIST FOR THIS PAGE:
 
 ## Journal Articles
 
-1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+1. Lwin, K. S., Saluja, R., Mandal, S. and Krittasudthacheewa, C. 
+(2025). "Effectiveness of nature-based solutions to address water 
+challenges in the Greater Mekong Subregion: a systematic mapping." 
+*Nature-Based Solutions*, 8, 100283. 
+[https://doi.org/10.1016/j.nbsj.2025.100283](https://doi.org/10.1016/j.nbsj.2025.100283){:target="_blank"}
 
-2. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+- Lwin, K. S., Saluja, R., Mandal, S., Lebel, L., Lebel, B., & 
+Krittasudthacheewa, C. (2025). *Interventions and pathways to 
+reducing water insecurities in the Mekong region: insights from 
+SUMERNET 4 All (S4A) research*. SEI Report. 
+[https://doi.org/10.51414/sei2025.049](https://doi.org/10.51414/sei2025.049){:target="_blank"}
 
 ---
 
-## Conference Papers & Presentations
+## Activities
 
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+- Panelist — *Myanmar Climate Action Week*, 
+UN-Habitat, 2024
 
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+- Session Facilitator — *Annual 
+Partner Meeting*, UNESCAP, Sida, and Swedish Embassy, 2023
+
+- Rapporteur — *Policy Platform for Climate 
+Change Adaptation and Disaster Risk Management*, ADB, 2022
 
 ---
 
 ## Theses
 
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
+- Lwin, K. S. (2021). *Water quality and small-scale aquaculture 
+in Myanmar*. Master's thesis. University of Science and Technology 
+of Hanoi & Université de Poitiers.
 
 ---
 
-## Reports & Technical Documents
+## Science Communication
 
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
+- Blogs, podcasts, and research communications available at 
+[SUMERNET](https://www.sumernet.org/people/p/khaing-su-lwin){:target="_blank"}
 
 ---
-
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
