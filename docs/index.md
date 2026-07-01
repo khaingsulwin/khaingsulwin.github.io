@@ -22,7 +22,7 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.png" alt="Khaing Su Lwin" class="profile-photo">
   <h1>Khaing Su Lwin</h1>
   <p><strong>Independent Research Consultant</strong></p>
-  <p><em>Water security | Climate Resilience | Nature-based Solutions | Southeast Asia</em></p>
+  <p><em>Water Security | Climate Resilience | Nature-based Solutions | Southeast Asia</em></p>
 </div>
 
 ---
@@ -37,7 +37,7 @@ Most recently at Stockholm Environment Institute (SEI Asia) in Bangkok — first
 
 My recent work includes a first-authored, peer-reviewed publication in the Nature-Based Solutions journal. I bring qualitative research methods (NVivo, systematic mapping, key informant interviews), native Burmese language fluency, and a growing foundation in GIS and spatial analysis. I'm currently seeking researcher, analyst, and programme officer roles with regional organisations, INGOs, and think tanks working on water, climate resilience, or environmental governance in Asia.
 
-I also use this space to think publicly and document my observations on topics that interest me beyond my research — ecology, urban life, and inclusivity - among others.
+I also use this space to document my observations on topics that interest me beyond my research — ecology, urban life, and inclusivity - among others.
 
 </div>
 

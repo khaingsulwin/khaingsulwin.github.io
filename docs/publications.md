@@ -13,15 +13,15 @@ CHECKLIST FOR THIS PAGE:
 
 # Publications
 
-## Journal Articles
+## Articles and Reports
 
-1. Lwin, K. S., Saluja, R., Mandal, S. and Krittasudthacheewa, C. 
+1. **Lwin, K. S.**, Saluja, R., Mandal, S. and Krittasudthacheewa, C. 
 (2025). "Effectiveness of nature-based solutions to address water 
 challenges in the Greater Mekong Subregion: a systematic mapping." 
 *Nature-Based Solutions*, 8, 100283. 
 [https://doi.org/10.1016/j.nbsj.2025.100283](https://doi.org/10.1016/j.nbsj.2025.100283){:target="_blank"}
 
-- Lwin, K. S., Saluja, R., Mandal, S., Lebel, L., Lebel, B., & 
+- **Lwin, K. S.**, Saluja, R., Mandal, S., Lebel, L., Lebel, B., & 
 Krittasudthacheewa, C. (2025). *Interventions and pathways to 
 reducing water insecurities in the Mekong region: insights from 
 SUMERNET 4 All (S4A) research*. SEI Report. 
